@@ -149,7 +149,7 @@ All take `{size}{lineheight}` with explicit units (e.g. `pt`). Call before
 |----------------------------------------|-------------------------------|
 | `\assignmentfontsize{size}{lineheight}` | 14pt, 16pt                   |
 | `\authorfontsize{size}{lineheight}`     | 14pt, 16pt                   |
-| `\titlefontsize{size}{lineheight}`      | 22pt, 28pt                   |
+| `\titlefontsize{size}{lineheight}`      | 20pt, 28pt                   |
 | `\subtitlefontsize{size}{lineheight}`   | 14pt, 16pt                   |
 | `\supervisorfontsize{size}{lineheight}` | 12pt, 5pt                    |
 | `\datefontsize{size}{lineheight}`       | 12pt, 5pt                    |
