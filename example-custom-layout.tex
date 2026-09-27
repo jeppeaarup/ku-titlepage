@@ -1,0 +1,25 @@
+% Custom positions and font sizes, e.g. for a long title that needs more
+% room, or a different overall layout than the default.
+\documentclass{article}
+\usepackage[titlepage, samf]{ku-titlepage}
+
+% Move the title block up and enlarge it
+\titleposition{20}{210}
+\titlefontsize{28pt}{30pt}
+
+% Push supervisor/date further down to compensate
+\supervisorposition{20}{270}
+\dateposition{20}{278}
+
+\begin{document}
+
+\assignment{PhD thesis}
+\author{Svante Wold}
+\title{New chemical descriptors relevant for the design of biologically active peptides}
+\subtitle{A multivariate characterization of 87 amino acids}
+\supervisor{Supervisor: Anders Andersen}
+\date{\today}
+
+\maketitle
+
+\end{document}
