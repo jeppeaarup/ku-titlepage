@@ -14,9 +14,6 @@
 *.snm
 *.vrb
 
-# Compiled output from the example .tex files (regenerate by compiling)
-example-*.pdf
-
 # OS / editor cruft
 .DS_Store
 Thumbs.db
